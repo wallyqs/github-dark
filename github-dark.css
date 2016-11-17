@@ -575,7 +575,8 @@ table.files td.icon {
 }
 
 .blob-code-inner {
-    color: #6d6d72;
+    /* color: #6d6d72; */
+    color: #cafe12;
 }
 
 .blob-code-hunk,
